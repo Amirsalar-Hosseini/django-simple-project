@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block title %}hello{% endblock %}
+{% block content %}
+{# this is comment #}
+    {% if name == 'admin' %}
+        <p>sorry....</p>
+    {% endif %}
+    <h3>hello {{ name|upper }}</h3>
+{% endblock %}
