@@ -13,3 +13,8 @@ reading Model
 extends
 bootstrap
 detail
+url
+delete
+messages
+create
+forms
