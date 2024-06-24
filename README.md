@@ -22,3 +22,5 @@ model_form
 user
 register
 login
+logout
+request
