@@ -18,3 +18,7 @@ delete
 messages
 create
 forms
+model_form
+user
+register
+login
